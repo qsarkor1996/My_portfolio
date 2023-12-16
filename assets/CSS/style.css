@@ -1,0 +1,27 @@
+
+.nav-item{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.footer-logo {
+    font-size: 25px;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.active {
+    color: red;
+}
+
+.round-image {
+    width: 150px; /* Adjust the size as needed */
+    height: 180px; /* Adjust the size as needed */
+    border-radius: 50%; /* This makes the image round */
+    object-fit: cover; /* Ensures the image covers the area without stretching */
+}
+
+.name {
+    font-family: serif;
+}
